@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Sunrise Health Clinic",
+    "address": "123 Oak Street, CA 98765",
+    "rating": 5.0,
+    "reviews": 58,
+    "distance": "2.5 km",
+    "time": "40 min",
+    "imageUrl": "https://www.bestmasterofscienceinnursing.com/wp-content/uploads/2015/03/Kaiser-foundation-hospital-modern-hospitals.jpg"
+  },
+  {
+    "name": "Golden Cardiology Clinic",
+    "address": "555 Bridge Street, USA",
+    "rating": 4.9,
+    "reviews": 108,
+    "distance": "2.2 km",
+    "time": "30 min",
+    "imageUrl": "https://www.bestmasterofscienceinnursing.com/wp-content/uploads/2015/03/mediclinic-city-hospital-modern-hospitals.jpg"
+  }
+]
